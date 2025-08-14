@@ -1,0 +1,6 @@
+streamlit
+wikipedia-api
+sentence-transformers
+langchain
+faiss-cpu
+transformers
